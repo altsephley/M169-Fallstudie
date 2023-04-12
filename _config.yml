@@ -2,5 +2,7 @@ title: Fallstudie App Ref. Card 01
 description: Modul 169
 remote-theme: just-the-docs
 
+color_scheme: dark
+
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
