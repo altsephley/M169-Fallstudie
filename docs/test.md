@@ -1,1 +1,8 @@
-# wow such good title
+---
+layout: page
+title: "wow such good title"
+permalink: /docs
+parent: Home
+nav_order: 2
+---
+# help pls
